@@ -1,8 +1,6 @@
 ### Hi there 👋 I´m Leider Pineda
 
 ## About me
-¡Claro! Aquí tienes el párrafo que describe tu perfil profesional, presentado en español e inglés y decorado con Markdown y emojis para un `README` de GitHub.
-
 ---
 
 ## 👨‍💻 Perfil Profesional | Professional Profile 🚀
