@@ -18,6 +18,34 @@ Cuento con experiencia en implementación de soluciones con **Inteligencia Artif
 Me caracterizo por mi capacidad de **organización** 📝, **liderazgo en equipos ágiles** 🤝 y un fuerte compromiso con la **responsabilidad y la calidad** ✅ en cada proyecto. Busco desafíos donde pueda aplicar mis conocimientos técnicos y habilidades interpersonales para entregar **soluciones innovadoras** ✨.
 
 ---
+## ✨ Mi Expertise Tecnológico 🚀
+
+Como **Ingeniero de Sistemas** y **Desarrollador Full Stack**, mi dominio abarca un amplio espectro de tecnologías y metodologías de desarrollo de software.
+
+---
+
+### **Roles & Enfoques:**
+
+* **Ingeniero de Sistemas** ⚙️
+* **Desarrollador de Software** 💻
+* **Desarrollador Full Stack** 🌐
+
+---
+
+### **Tecnologías Clave:**
+
+* **Lenguajes & Frameworks:**
+    * **Java** (con experiencia sólida en **Spring Boot** ☕)
+    * **Python** 🐍
+    * **Node.js** 🟢
+    * **Angular** 🅰️
+    * **React** ⚛️
+* **Nube & DevOps:**
+    * **AWS Cloud** ☁️
+* **Áreas de Especialización:**
+    * **Inteligencia Artificial (AI)** 🧠
+
+---
 
 ### **English** EN
 
@@ -28,6 +56,37 @@ I have experience in the complete development cycle, including **continuous inte
 I possess experience in implementing **Artificial Intelligence (AI)** 🧠 solutions integrated via APIs or custom developments, applied to automation, data analysis, and intelligent assistants.
 
 I am characterized by my **organizational skills** 📝, **leadership in agile teams** 🤝, and a strong commitment to **responsibility and quality** ✅ in every project. I seek challenges where I can apply my technical knowledge and interpersonal skills to deliver **innovative solutions** ✨.
+
+---
+
+## ✨ My Technological Expertise 🚀
+
+As a **Systems Engineer** and **Full Stack Developer**, my proficiency spans a broad spectrum of software development technologies and methodologies.
+
+---
+
+### **Roles & Focus Areas:**
+
+* **Systems Engineer** ⚙️
+* **Software Developer** 💻
+* **Full Stack Developer** 🌐
+
+---
+
+### **Key Technologies:**
+
+* **Languages & Frameworks:**
+    * **Java** (with solid experience in **Spring Boot** ☕)
+    * **Python** 🐍
+    * **Node.js** 🟢
+    * **Angular** 🅰️
+    * **React** ⚛️
+* **Cloud & DevOps:**
+    * **AWS Cloud** ☁️
+* **Areas of Specialization:**
+    * **Artificial Intelligence (AI)** 🧠
+
+---
 
 <!-- ![image](FotoPerfil.png) -->
 
