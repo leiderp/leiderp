@@ -19,7 +19,7 @@ Me caracterizo por mi capacidad de **organización** 📝, **liderazgo en equipo
 
 ---
 
-### **English** 🇬🇧
+### **English** EN
 
 Systems Engineer with a **strong track record in software development**, covering everything from designing robust architectures to the full implementation of **Full Stack** 🌐 solutions. My primary focus is building **scalable and efficient Backend applications** 📈 using technologies like **Node.js** 🟢, **Java** (with **Spring Boot** ☕), and **Python** (with **Flask** 🐍), specializing in **Microservices architectures** and **AWS** ☁️ services.
 
